@@ -1,0 +1,3 @@
+numeroCompte|cin|montant
+
+1|A1|1000

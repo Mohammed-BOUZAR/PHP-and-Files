@@ -1,0 +1,3 @@
+cin|adresse|nom|prenom
+
+A1|AA|AA|BB
